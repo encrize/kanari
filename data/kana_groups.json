@@ -1,0 +1,3577 @@
+{
+  "hiragana": [
+    {
+      "id": "h-a",
+      "script": "hiragana",
+      "label": "A-row",
+      "symbols": [
+        {
+          "kana": "あ",
+          "romaji": [
+            "a"
+          ],
+          "hangul": [
+            "아"
+          ],
+          "arabic": [
+            "أَ"
+          ]
+        },
+        {
+          "kana": "い",
+          "romaji": [
+            "i"
+          ],
+          "hangul": [
+            "이"
+          ],
+          "arabic": [
+            "إي"
+          ]
+        },
+        {
+          "kana": "う",
+          "romaji": [
+            "u"
+          ],
+          "hangul": [
+            "우"
+          ],
+          "arabic": [
+            "أو"
+          ]
+        },
+        {
+          "kana": "え",
+          "romaji": [
+            "e"
+          ],
+          "hangul": [
+            "에"
+          ],
+          "arabic": [
+            "إيه"
+          ]
+        },
+        {
+          "kana": "お",
+          "romaji": [
+            "o"
+          ],
+          "hangul": [
+            "오"
+          ],
+          "arabic": [
+            "أوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ka",
+      "script": "hiragana",
+      "label": "Ka-row",
+      "symbols": [
+        {
+          "kana": "か",
+          "romaji": [
+            "ka"
+          ],
+          "hangul": [
+            "카",
+            "가"
+          ],
+          "arabic": [
+            "كا"
+          ]
+        },
+        {
+          "kana": "き",
+          "romaji": [
+            "ki"
+          ],
+          "hangul": [
+            "키",
+            "기"
+          ],
+          "arabic": [
+            "كي"
+          ]
+        },
+        {
+          "kana": "く",
+          "romaji": [
+            "ku"
+          ],
+          "hangul": [
+            "쿠",
+            "구"
+          ],
+          "arabic": [
+            "كو"
+          ]
+        },
+        {
+          "kana": "け",
+          "romaji": [
+            "ke"
+          ],
+          "hangul": [
+            "케",
+            "게"
+          ],
+          "arabic": [
+            "كيه"
+          ]
+        },
+        {
+          "kana": "こ",
+          "romaji": [
+            "ko"
+          ],
+          "hangul": [
+            "코",
+            "고"
+          ],
+          "arabic": [
+            "كوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-sa",
+      "script": "hiragana",
+      "label": "Sa-row",
+      "symbols": [
+        {
+          "kana": "さ",
+          "romaji": [
+            "sa"
+          ],
+          "hangul": [
+            "사"
+          ],
+          "arabic": [
+            "سا"
+          ]
+        },
+        {
+          "kana": "し",
+          "romaji": [
+            "shi",
+            "si"
+          ],
+          "hangul": [
+            "시"
+          ],
+          "arabic": [
+            "شي"
+          ]
+        },
+        {
+          "kana": "す",
+          "romaji": [
+            "su"
+          ],
+          "hangul": [
+            "스"
+          ],
+          "arabic": [
+            "سو"
+          ]
+        },
+        {
+          "kana": "せ",
+          "romaji": [
+            "se"
+          ],
+          "hangul": [
+            "세"
+          ],
+          "arabic": [
+            "سيه"
+          ]
+        },
+        {
+          "kana": "そ",
+          "romaji": [
+            "so"
+          ],
+          "hangul": [
+            "소"
+          ],
+          "arabic": [
+            "سوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ta",
+      "script": "hiragana",
+      "label": "Ta-row",
+      "symbols": [
+        {
+          "kana": "た",
+          "romaji": [
+            "ta"
+          ],
+          "hangul": [
+            "타",
+            "다"
+          ],
+          "arabic": [
+            "تا"
+          ]
+        },
+        {
+          "kana": "ち",
+          "romaji": [
+            "chi",
+            "ti"
+          ],
+          "hangul": [
+            "치",
+            "지"
+          ],
+          "arabic": [
+            "تشي"
+          ]
+        },
+        {
+          "kana": "つ",
+          "romaji": [
+            "tsu",
+            "tu"
+          ],
+          "hangul": [
+            "쓰",
+            "츠",
+            "쯔"
+          ],
+          "arabic": [
+            "تسو"
+          ]
+        },
+        {
+          "kana": "て",
+          "romaji": [
+            "te"
+          ],
+          "hangul": [
+            "테",
+            "데"
+          ],
+          "arabic": [
+            "تيه"
+          ]
+        },
+        {
+          "kana": "と",
+          "romaji": [
+            "to"
+          ],
+          "hangul": [
+            "토",
+            "도"
+          ],
+          "arabic": [
+            "توه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-na",
+      "script": "hiragana",
+      "label": "Na-row",
+      "symbols": [
+        {
+          "kana": "な",
+          "romaji": [
+            "na"
+          ],
+          "hangul": [
+            "나"
+          ],
+          "arabic": [
+            "نا"
+          ]
+        },
+        {
+          "kana": "に",
+          "romaji": [
+            "ni"
+          ],
+          "hangul": [
+            "니"
+          ],
+          "arabic": [
+            "ني"
+          ]
+        },
+        {
+          "kana": "ぬ",
+          "romaji": [
+            "nu"
+          ],
+          "hangul": [
+            "누"
+          ],
+          "arabic": [
+            "نو"
+          ]
+        },
+        {
+          "kana": "ね",
+          "romaji": [
+            "ne"
+          ],
+          "hangul": [
+            "네"
+          ],
+          "arabic": [
+            "نيه"
+          ]
+        },
+        {
+          "kana": "の",
+          "romaji": [
+            "no"
+          ],
+          "hangul": [
+            "노"
+          ],
+          "arabic": [
+            "نوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ha",
+      "script": "hiragana",
+      "label": "Ha-row",
+      "symbols": [
+        {
+          "kana": "は",
+          "romaji": [
+            "ha"
+          ],
+          "hangul": [
+            "하"
+          ],
+          "arabic": [
+            "ها"
+          ]
+        },
+        {
+          "kana": "ひ",
+          "romaji": [
+            "hi"
+          ],
+          "hangul": [
+            "히"
+          ],
+          "arabic": [
+            "هي"
+          ]
+        },
+        {
+          "kana": "ふ",
+          "romaji": [
+            "fu",
+            "hu"
+          ],
+          "hangul": [
+            "후",
+            "푸"
+          ],
+          "arabic": [
+            "فو"
+          ]
+        },
+        {
+          "kana": "へ",
+          "romaji": [
+            "he"
+          ],
+          "hangul": [
+            "헤"
+          ],
+          "arabic": [
+            "هيه"
+          ]
+        },
+        {
+          "kana": "ほ",
+          "romaji": [
+            "ho"
+          ],
+          "hangul": [
+            "호"
+          ],
+          "arabic": [
+            "هوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ma",
+      "script": "hiragana",
+      "label": "Ma-row",
+      "symbols": [
+        {
+          "kana": "ま",
+          "romaji": [
+            "ma"
+          ],
+          "hangul": [
+            "마"
+          ],
+          "arabic": [
+            "ما"
+          ]
+        },
+        {
+          "kana": "み",
+          "romaji": [
+            "mi"
+          ],
+          "hangul": [
+            "미"
+          ],
+          "arabic": [
+            "مي"
+          ]
+        },
+        {
+          "kana": "む",
+          "romaji": [
+            "mu"
+          ],
+          "hangul": [
+            "무"
+          ],
+          "arabic": [
+            "مو"
+          ]
+        },
+        {
+          "kana": "め",
+          "romaji": [
+            "me"
+          ],
+          "hangul": [
+            "메"
+          ],
+          "arabic": [
+            "ميه"
+          ]
+        },
+        {
+          "kana": "も",
+          "romaji": [
+            "mo"
+          ],
+          "hangul": [
+            "모"
+          ],
+          "arabic": [
+            "موه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ya",
+      "script": "hiragana",
+      "label": "Ya-row",
+      "symbols": [
+        {
+          "kana": "や",
+          "romaji": [
+            "ya"
+          ],
+          "hangul": [
+            "야"
+          ],
+          "arabic": [
+            "يا"
+          ]
+        },
+        {
+          "kana": "ゆ",
+          "romaji": [
+            "yu"
+          ],
+          "hangul": [
+            "유"
+          ],
+          "arabic": [
+            "يو"
+          ]
+        },
+        {
+          "kana": "よ",
+          "romaji": [
+            "yo"
+          ],
+          "hangul": [
+            "요"
+          ],
+          "arabic": [
+            "يوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ra",
+      "script": "hiragana",
+      "label": "Ra-row",
+      "symbols": [
+        {
+          "kana": "ら",
+          "romaji": [
+            "ra"
+          ],
+          "hangul": [
+            "라"
+          ],
+          "arabic": [
+            "را"
+          ]
+        },
+        {
+          "kana": "り",
+          "romaji": [
+            "ri"
+          ],
+          "hangul": [
+            "리"
+          ],
+          "arabic": [
+            "ري"
+          ]
+        },
+        {
+          "kana": "る",
+          "romaji": [
+            "ru"
+          ],
+          "hangul": [
+            "루"
+          ],
+          "arabic": [
+            "رو"
+          ]
+        },
+        {
+          "kana": "れ",
+          "romaji": [
+            "re"
+          ],
+          "hangul": [
+            "레"
+          ],
+          "arabic": [
+            "ريه"
+          ]
+        },
+        {
+          "kana": "ろ",
+          "romaji": [
+            "ro"
+          ],
+          "hangul": [
+            "로"
+          ],
+          "arabic": [
+            "روه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-wa",
+      "script": "hiragana",
+      "label": "Wa-row",
+      "symbols": [
+        {
+          "kana": "わ",
+          "romaji": [
+            "wa"
+          ],
+          "hangul": [
+            "와"
+          ],
+          "arabic": [
+            "وا"
+          ]
+        },
+        {
+          "kana": "を",
+          "romaji": [
+            "wo",
+            "o"
+          ],
+          "hangul": [
+            "오",
+            "워"
+          ],
+          "arabic": [
+            "و"
+          ]
+        },
+        {
+          "kana": "ん",
+          "romaji": [
+            "n"
+          ],
+          "hangul": [
+            "응"
+          ],
+          "arabic": [
+            "ن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ga",
+      "script": "hiragana",
+      "label": "Ga-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "が",
+          "romaji": [
+            "ga"
+          ],
+          "hangul": [
+            "가"
+          ],
+          "arabic": [
+            "غا"
+          ]
+        },
+        {
+          "kana": "ぎ",
+          "romaji": [
+            "gi"
+          ],
+          "hangul": [
+            "기"
+          ],
+          "arabic": [
+            "غي"
+          ]
+        },
+        {
+          "kana": "ぐ",
+          "romaji": [
+            "gu"
+          ],
+          "hangul": [
+            "구"
+          ],
+          "arabic": [
+            "غو"
+          ]
+        },
+        {
+          "kana": "げ",
+          "romaji": [
+            "ge"
+          ],
+          "hangul": [
+            "게"
+          ],
+          "arabic": [
+            "غيه"
+          ]
+        },
+        {
+          "kana": "ご",
+          "romaji": [
+            "go"
+          ],
+          "hangul": [
+            "고"
+          ],
+          "arabic": [
+            "غوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-za",
+      "script": "hiragana",
+      "label": "Za-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ざ",
+          "romaji": [
+            "za"
+          ],
+          "hangul": [
+            "자"
+          ],
+          "arabic": [
+            "زا"
+          ]
+        },
+        {
+          "kana": "じ",
+          "romaji": [
+            "ji",
+            "zi"
+          ],
+          "hangul": [
+            "지"
+          ],
+          "arabic": [
+            "جي"
+          ]
+        },
+        {
+          "kana": "ず",
+          "romaji": [
+            "zu"
+          ],
+          "hangul": [
+            "즈"
+          ],
+          "arabic": [
+            "زو"
+          ]
+        },
+        {
+          "kana": "ぜ",
+          "romaji": [
+            "ze"
+          ],
+          "hangul": [
+            "제"
+          ],
+          "arabic": [
+            "زيه"
+          ]
+        },
+        {
+          "kana": "ぞ",
+          "romaji": [
+            "zo"
+          ],
+          "hangul": [
+            "조"
+          ],
+          "arabic": [
+            "زوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-da",
+      "script": "hiragana",
+      "label": "Da-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "だ",
+          "romaji": [
+            "da"
+          ],
+          "hangul": [
+            "다"
+          ],
+          "arabic": [
+            "دا"
+          ]
+        },
+        {
+          "kana": "ぢ",
+          "romaji": [
+            "ji",
+            "di",
+            "dzi"
+          ],
+          "hangul": [
+            "지"
+          ],
+          "arabic": [
+            "جي"
+          ]
+        },
+        {
+          "kana": "づ",
+          "romaji": [
+            "zu",
+            "du",
+            "dzu"
+          ],
+          "hangul": [
+            "즈"
+          ],
+          "arabic": [
+            "زو"
+          ]
+        },
+        {
+          "kana": "で",
+          "romaji": [
+            "de"
+          ],
+          "hangul": [
+            "데"
+          ],
+          "arabic": [
+            "ديه"
+          ]
+        },
+        {
+          "kana": "ど",
+          "romaji": [
+            "do"
+          ],
+          "hangul": [
+            "도"
+          ],
+          "arabic": [
+            "دوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ba",
+      "script": "hiragana",
+      "label": "Ba-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ば",
+          "romaji": [
+            "ba"
+          ],
+          "hangul": [
+            "바"
+          ],
+          "arabic": [
+            "با"
+          ]
+        },
+        {
+          "kana": "び",
+          "romaji": [
+            "bi"
+          ],
+          "hangul": [
+            "비"
+          ],
+          "arabic": [
+            "بي"
+          ]
+        },
+        {
+          "kana": "ぶ",
+          "romaji": [
+            "bu"
+          ],
+          "hangul": [
+            "부"
+          ],
+          "arabic": [
+            "بو"
+          ]
+        },
+        {
+          "kana": "べ",
+          "romaji": [
+            "be"
+          ],
+          "hangul": [
+            "베"
+          ],
+          "arabic": [
+            "بيه"
+          ]
+        },
+        {
+          "kana": "ぼ",
+          "romaji": [
+            "bo"
+          ],
+          "hangul": [
+            "보"
+          ],
+          "arabic": [
+            "بوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-pa",
+      "script": "hiragana",
+      "label": "Pa-row",
+      "tags": [
+        "handakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ぱ",
+          "romaji": [
+            "pa"
+          ],
+          "hangul": [
+            "파",
+            "빠"
+          ],
+          "arabic": [
+            "پا"
+          ]
+        },
+        {
+          "kana": "ぴ",
+          "romaji": [
+            "pi"
+          ],
+          "hangul": [
+            "피",
+            "삐"
+          ],
+          "arabic": [
+            "پي"
+          ]
+        },
+        {
+          "kana": "ぷ",
+          "romaji": [
+            "pu"
+          ],
+          "hangul": [
+            "푸",
+            "뿌"
+          ],
+          "arabic": [
+            "پو"
+          ]
+        },
+        {
+          "kana": "ぺ",
+          "romaji": [
+            "pe"
+          ],
+          "hangul": [
+            "페",
+            "뻬"
+          ],
+          "arabic": [
+            "پيه"
+          ]
+        },
+        {
+          "kana": "ぽ",
+          "romaji": [
+            "po"
+          ],
+          "hangul": [
+            "포",
+            "뽀"
+          ],
+          "arabic": [
+            "پوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-kya",
+      "script": "hiragana",
+      "label": "Kya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "きゃ",
+          "romaji": [
+            "kya"
+          ],
+          "hangul": [
+            "캬",
+            "갸"
+          ],
+          "arabic": [
+            "كيا"
+          ]
+        },
+        {
+          "kana": "きゅ",
+          "romaji": [
+            "kyu"
+          ],
+          "hangul": [
+            "큐",
+            "규"
+          ],
+          "arabic": [
+            "كيو"
+          ]
+        },
+        {
+          "kana": "きょ",
+          "romaji": [
+            "kyo"
+          ],
+          "hangul": [
+            "쿄",
+            "교"
+          ],
+          "arabic": [
+            "كيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-sha",
+      "script": "hiragana",
+      "label": "Sha-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "しゃ",
+          "romaji": [
+            "sha",
+            "sya"
+          ],
+          "hangul": [
+            "샤"
+          ],
+          "arabic": [
+            "شا"
+          ]
+        },
+        {
+          "kana": "しゅ",
+          "romaji": [
+            "shu",
+            "syu"
+          ],
+          "hangul": [
+            "슈"
+          ],
+          "arabic": [
+            "شو"
+          ]
+        },
+        {
+          "kana": "しょ",
+          "romaji": [
+            "sho",
+            "syo"
+          ],
+          "hangul": [
+            "쇼"
+          ],
+          "arabic": [
+            "شوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-cha",
+      "script": "hiragana",
+      "label": "Cha-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "ちゃ",
+          "romaji": [
+            "cha",
+            "cya",
+            "tya"
+          ],
+          "hangul": [
+            "차",
+            "자"
+          ],
+          "arabic": [
+            "تشا"
+          ]
+        },
+        {
+          "kana": "ちゅ",
+          "romaji": [
+            "chu",
+            "cyu",
+            "tyu"
+          ],
+          "hangul": [
+            "추",
+            "주"
+          ],
+          "arabic": [
+            "تشو"
+          ]
+        },
+        {
+          "kana": "ちょ",
+          "romaji": [
+            "cho",
+            "cyo",
+            "tyo"
+          ],
+          "hangul": [
+            "초",
+            "조"
+          ],
+          "arabic": [
+            "تشوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-nya",
+      "script": "hiragana",
+      "label": "Nya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "にゃ",
+          "romaji": [
+            "nya"
+          ],
+          "hangul": [
+            "냐"
+          ],
+          "arabic": [
+            "نيا"
+          ]
+        },
+        {
+          "kana": "にゅ",
+          "romaji": [
+            "nyu"
+          ],
+          "hangul": [
+            "뉴"
+          ],
+          "arabic": [
+            "نيو"
+          ]
+        },
+        {
+          "kana": "にょ",
+          "romaji": [
+            "nyo"
+          ],
+          "hangul": [
+            "뇨"
+          ],
+          "arabic": [
+            "نيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-hya",
+      "script": "hiragana",
+      "label": "Hya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "ひゃ",
+          "romaji": [
+            "hya"
+          ],
+          "hangul": [
+            "햐"
+          ],
+          "arabic": [
+            "هيا"
+          ]
+        },
+        {
+          "kana": "ひゅ",
+          "romaji": [
+            "hyu"
+          ],
+          "hangul": [
+            "휴"
+          ],
+          "arabic": [
+            "هيو"
+          ]
+        },
+        {
+          "kana": "ひょ",
+          "romaji": [
+            "hyo"
+          ],
+          "hangul": [
+            "효"
+          ],
+          "arabic": [
+            "هيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-mya",
+      "script": "hiragana",
+      "label": "Mya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "みゃ",
+          "romaji": [
+            "mya"
+          ],
+          "hangul": [
+            "먀"
+          ],
+          "arabic": [
+            "ميا"
+          ]
+        },
+        {
+          "kana": "みゅ",
+          "romaji": [
+            "myu"
+          ],
+          "hangul": [
+            "뮤"
+          ],
+          "arabic": [
+            "ميو"
+          ]
+        },
+        {
+          "kana": "みょ",
+          "romaji": [
+            "myo"
+          ],
+          "hangul": [
+            "묘"
+          ],
+          "arabic": [
+            "ميوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-rya",
+      "script": "hiragana",
+      "label": "Rya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "りゃ",
+          "romaji": [
+            "rya"
+          ],
+          "hangul": [
+            "랴"
+          ],
+          "arabic": [
+            "ريا"
+          ]
+        },
+        {
+          "kana": "りゅ",
+          "romaji": [
+            "ryu"
+          ],
+          "hangul": [
+            "류"
+          ],
+          "arabic": [
+            "ريو"
+          ]
+        },
+        {
+          "kana": "りょ",
+          "romaji": [
+            "ryo"
+          ],
+          "hangul": [
+            "료"
+          ],
+          "arabic": [
+            "ريوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-gya",
+      "script": "hiragana",
+      "label": "Gya-row",
+      "tags": [
+        "yoon",
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ぎゃ",
+          "romaji": [
+            "gya"
+          ],
+          "hangul": [
+            "갸"
+          ],
+          "arabic": [
+            "غيا"
+          ]
+        },
+        {
+          "kana": "ぎゅ",
+          "romaji": [
+            "gyu"
+          ],
+          "hangul": [
+            "규"
+          ],
+          "arabic": [
+            "غيو"
+          ]
+        },
+        {
+          "kana": "ぎょ",
+          "romaji": [
+            "gyo"
+          ],
+          "hangul": [
+            "교"
+          ],
+          "arabic": [
+            "غيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-ja",
+      "script": "hiragana",
+      "label": "Ja-row",
+      "tags": [
+        "yoon",
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "じゃ",
+          "romaji": [
+            "ja",
+            "jya",
+            "zya"
+          ],
+          "hangul": [
+            "자",
+            "쟈"
+          ],
+          "arabic": [
+            "جا"
+          ]
+        },
+        {
+          "kana": "じゅ",
+          "romaji": [
+            "ju",
+            "jyu",
+            "zyu"
+          ],
+          "hangul": [
+            "주",
+            "쥬"
+          ],
+          "arabic": [
+            "جو"
+          ]
+        },
+        {
+          "kana": "じょ",
+          "romaji": [
+            "jo",
+            "jyo",
+            "zyo"
+          ],
+          "hangul": [
+            "조",
+            "죠"
+          ],
+          "arabic": [
+            "جوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-bya",
+      "script": "hiragana",
+      "label": "Bya-row",
+      "tags": [
+        "yoon",
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "びゃ",
+          "romaji": [
+            "bya"
+          ],
+          "hangul": [
+            "뱌"
+          ],
+          "arabic": [
+            "بيا"
+          ]
+        },
+        {
+          "kana": "びゅ",
+          "romaji": [
+            "byu"
+          ],
+          "hangul": [
+            "뷰"
+          ],
+          "arabic": [
+            "بيو"
+          ]
+        },
+        {
+          "kana": "びょ",
+          "romaji": [
+            "byo"
+          ],
+          "hangul": [
+            "뵤"
+          ],
+          "arabic": [
+            "بيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-pya",
+      "script": "hiragana",
+      "label": "Pya-row",
+      "tags": [
+        "yoon",
+        "handakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ぴゃ",
+          "romaji": [
+            "pya"
+          ],
+          "hangul": [
+            "퍄"
+          ],
+          "arabic": [
+            "پيا"
+          ]
+        },
+        {
+          "kana": "ぴゅ",
+          "romaji": [
+            "pyu"
+          ],
+          "hangul": [
+            "퓨"
+          ],
+          "arabic": [
+            "پيو"
+          ]
+        },
+        {
+          "kana": "ぴょ",
+          "romaji": [
+            "pyo"
+          ],
+          "hangul": [
+            "표"
+          ],
+          "arabic": [
+            "پيوه"
+          ]
+        }
+      ]
+    }
+  ],
+  "katakana": [
+    {
+      "id": "k-a",
+      "script": "katakana",
+      "label": "A-row",
+      "symbols": [
+        {
+          "kana": "ア",
+          "romaji": [
+            "a"
+          ],
+          "hangul": [
+            "아"
+          ],
+          "arabic": [
+            "ا"
+          ]
+        },
+        {
+          "kana": "イ",
+          "romaji": [
+            "i"
+          ],
+          "hangul": [
+            "이"
+          ],
+          "arabic": [
+            "إي"
+          ]
+        },
+        {
+          "kana": "ウ",
+          "romaji": [
+            "u"
+          ],
+          "hangul": [
+            "우"
+          ],
+          "arabic": [
+            "أو"
+          ]
+        },
+        {
+          "kana": "エ",
+          "romaji": [
+            "e"
+          ],
+          "hangul": [
+            "에"
+          ],
+          "arabic": [
+            "إيه"
+          ]
+        },
+        {
+          "kana": "オ",
+          "romaji": [
+            "o"
+          ],
+          "hangul": [
+            "오"
+          ],
+          "arabic": [
+            "أوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ka",
+      "script": "katakana",
+      "label": "Ka-row",
+      "symbols": [
+        {
+          "kana": "カ",
+          "romaji": [
+            "ka"
+          ],
+          "hangul": [
+            "카",
+            "가"
+          ],
+          "arabic": [
+            "كا"
+          ]
+        },
+        {
+          "kana": "キ",
+          "romaji": [
+            "ki"
+          ],
+          "hangul": [
+            "키",
+            "기"
+          ],
+          "arabic": [
+            "كي"
+          ]
+        },
+        {
+          "kana": "ク",
+          "romaji": [
+            "ku"
+          ],
+          "hangul": [
+            "쿠",
+            "구"
+          ],
+          "arabic": [
+            "كو"
+          ]
+        },
+        {
+          "kana": "ケ",
+          "romaji": [
+            "ke"
+          ],
+          "hangul": [
+            "케",
+            "게"
+          ],
+          "arabic": [
+            "كيه"
+          ]
+        },
+        {
+          "kana": "コ",
+          "romaji": [
+            "ko"
+          ],
+          "hangul": [
+            "코",
+            "고"
+          ],
+          "arabic": [
+            "كوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-sa",
+      "script": "katakana",
+      "label": "Sa-row",
+      "symbols": [
+        {
+          "kana": "サ",
+          "romaji": [
+            "sa"
+          ],
+          "hangul": [
+            "사"
+          ],
+          "arabic": [
+            "سا"
+          ]
+        },
+        {
+          "kana": "シ",
+          "romaji": [
+            "shi",
+            "si"
+          ],
+          "hangul": [
+            "시"
+          ],
+          "arabic": [
+            "شي"
+          ]
+        },
+        {
+          "kana": "ス",
+          "romaji": [
+            "su"
+          ],
+          "hangul": [
+            "스"
+          ],
+          "arabic": [
+            "سو"
+          ]
+        },
+        {
+          "kana": "セ",
+          "romaji": [
+            "se"
+          ],
+          "hangul": [
+            "세"
+          ],
+          "arabic": [
+            "سيه"
+          ]
+        },
+        {
+          "kana": "ソ",
+          "romaji": [
+            "so"
+          ],
+          "hangul": [
+            "소"
+          ],
+          "arabic": [
+            "سوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ta",
+      "script": "katakana",
+      "label": "Ta-row",
+      "symbols": [
+        {
+          "kana": "タ",
+          "romaji": [
+            "ta"
+          ],
+          "hangul": [
+            "타",
+            "다"
+          ],
+          "arabic": [
+            "تا"
+          ]
+        },
+        {
+          "kana": "チ",
+          "romaji": [
+            "chi",
+            "ti"
+          ],
+          "hangul": [
+            "치",
+            "지"
+          ],
+          "arabic": [
+            "تشي"
+          ]
+        },
+        {
+          "kana": "ツ",
+          "romaji": [
+            "tsu",
+            "tu"
+          ],
+          "hangul": [
+            "쓰",
+            "츠",
+            "쯔"
+          ],
+          "arabic": [
+            "تسو"
+          ]
+        },
+        {
+          "kana": "テ",
+          "romaji": [
+            "te"
+          ],
+          "hangul": [
+            "테",
+            "데"
+          ],
+          "arabic": [
+            "تيه"
+          ]
+        },
+        {
+          "kana": "ト",
+          "romaji": [
+            "to"
+          ],
+          "hangul": [
+            "토",
+            "도"
+          ],
+          "arabic": [
+            "توه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-na",
+      "script": "katakana",
+      "label": "Na-row",
+      "symbols": [
+        {
+          "kana": "ナ",
+          "romaji": [
+            "na"
+          ],
+          "hangul": [
+            "나"
+          ],
+          "arabic": [
+            "نا"
+          ]
+        },
+        {
+          "kana": "ニ",
+          "romaji": [
+            "ni"
+          ],
+          "hangul": [
+            "니"
+          ],
+          "arabic": [
+            "ني"
+          ]
+        },
+        {
+          "kana": "ヌ",
+          "romaji": [
+            "nu"
+          ],
+          "hangul": [
+            "누"
+          ],
+          "arabic": [
+            "نو"
+          ]
+        },
+        {
+          "kana": "ネ",
+          "romaji": [
+            "ne"
+          ],
+          "hangul": [
+            "네"
+          ],
+          "arabic": [
+            "نيه"
+          ]
+        },
+        {
+          "kana": "ノ",
+          "romaji": [
+            "no"
+          ],
+          "hangul": [
+            "노"
+          ],
+          "arabic": [
+            "نوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ha",
+      "script": "katakana",
+      "label": "Ha-row",
+      "symbols": [
+        {
+          "kana": "ハ",
+          "romaji": [
+            "ha"
+          ],
+          "hangul": [
+            "하"
+          ],
+          "arabic": [
+            "ها"
+          ]
+        },
+        {
+          "kana": "ヒ",
+          "romaji": [
+            "hi"
+          ],
+          "hangul": [
+            "히"
+          ],
+          "arabic": [
+            "هي"
+          ]
+        },
+        {
+          "kana": "フ",
+          "romaji": [
+            "fu",
+            "hu"
+          ],
+          "hangul": [
+            "후",
+            "푸"
+          ],
+          "arabic": [
+            "فو"
+          ]
+        },
+        {
+          "kana": "ヘ",
+          "romaji": [
+            "he"
+          ],
+          "hangul": [
+            "헤"
+          ],
+          "arabic": [
+            "هيه"
+          ]
+        },
+        {
+          "kana": "ホ",
+          "romaji": [
+            "ho"
+          ],
+          "hangul": [
+            "호"
+          ],
+          "arabic": [
+            "هوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ma",
+      "script": "katakana",
+      "label": "Ma-row",
+      "symbols": [
+        {
+          "kana": "マ",
+          "romaji": [
+            "ma"
+          ],
+          "hangul": [
+            "마"
+          ],
+          "arabic": [
+            "ما"
+          ]
+        },
+        {
+          "kana": "ミ",
+          "romaji": [
+            "mi"
+          ],
+          "hangul": [
+            "미"
+          ],
+          "arabic": [
+            "مي"
+          ]
+        },
+        {
+          "kana": "ム",
+          "romaji": [
+            "mu"
+          ],
+          "hangul": [
+            "무"
+          ],
+          "arabic": [
+            "مو"
+          ]
+        },
+        {
+          "kana": "メ",
+          "romaji": [
+            "me"
+          ],
+          "hangul": [
+            "메"
+          ],
+          "arabic": [
+            "ميه"
+          ]
+        },
+        {
+          "kana": "モ",
+          "romaji": [
+            "mo"
+          ],
+          "hangul": [
+            "모"
+          ],
+          "arabic": [
+            "موه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ya",
+      "script": "katakana",
+      "label": "Ya-row",
+      "symbols": [
+        {
+          "kana": "ヤ",
+          "romaji": [
+            "ya"
+          ],
+          "hangul": [
+            "야"
+          ],
+          "arabic": [
+            "يا"
+          ]
+        },
+        {
+          "kana": "ユ",
+          "romaji": [
+            "yu"
+          ],
+          "hangul": [
+            "유"
+          ],
+          "arabic": [
+            "يو"
+          ]
+        },
+        {
+          "kana": "ヨ",
+          "romaji": [
+            "yo"
+          ],
+          "hangul": [
+            "요"
+          ],
+          "arabic": [
+            "يوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ra",
+      "script": "katakana",
+      "label": "Ra-row",
+      "symbols": [
+        {
+          "kana": "ラ",
+          "romaji": [
+            "ra"
+          ],
+          "hangul": [
+            "라"
+          ],
+          "arabic": [
+            "را"
+          ]
+        },
+        {
+          "kana": "リ",
+          "romaji": [
+            "ri"
+          ],
+          "hangul": [
+            "리"
+          ],
+          "arabic": [
+            "ري"
+          ]
+        },
+        {
+          "kana": "ル",
+          "romaji": [
+            "ru"
+          ],
+          "hangul": [
+            "루"
+          ],
+          "arabic": [
+            "رو"
+          ]
+        },
+        {
+          "kana": "レ",
+          "romaji": [
+            "re"
+          ],
+          "hangul": [
+            "레"
+          ],
+          "arabic": [
+            "ريه"
+          ]
+        },
+        {
+          "kana": "ロ",
+          "romaji": [
+            "ro"
+          ],
+          "hangul": [
+            "로"
+          ],
+          "arabic": [
+            "روه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-wa",
+      "script": "katakana",
+      "label": "Wa-row",
+      "symbols": [
+        {
+          "kana": "ワ",
+          "romaji": [
+            "wa"
+          ],
+          "hangul": [
+            "와"
+          ],
+          "arabic": [
+            "وا"
+          ]
+        },
+        {
+          "kana": "ヲ",
+          "romaji": [
+            "wo",
+            "o"
+          ],
+          "hangul": [
+            "오",
+            "워"
+          ],
+          "arabic": [
+            "و"
+          ]
+        },
+        {
+          "kana": "ン",
+          "romaji": [
+            "n"
+          ],
+          "hangul": [
+            "응"
+          ],
+          "arabic": [
+            "ن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-look-1",
+      "script": "katakana",
+      "label": "Look-alike set 1",
+      "tags": [
+        "look-alike"
+      ],
+      "symbols": [
+        {
+          "kana": "シ",
+          "romaji": [
+            "shi",
+            "si"
+          ],
+          "hangul": [
+            "시"
+          ],
+          "arabic": [
+            "شي"
+          ]
+        },
+        {
+          "kana": "ツ",
+          "romaji": [
+            "tsu",
+            "tu"
+          ],
+          "hangul": [
+            "쓰",
+            "츠",
+            "쯔"
+          ],
+          "arabic": [
+            "تسو"
+          ]
+        },
+        {
+          "kana": "ソ",
+          "romaji": [
+            "so"
+          ],
+          "hangul": [
+            "소"
+          ],
+          "arabic": [
+            "سوه"
+          ]
+        },
+        {
+          "kana": "ン",
+          "romaji": [
+            "n"
+          ],
+          "hangul": [
+            "응"
+          ],
+          "arabic": [
+            "ن"
+          ]
+        },
+        {
+          "kana": "ノ",
+          "romaji": [
+            "no"
+          ],
+          "hangul": [
+            "노"
+          ],
+          "arabic": [
+            "نوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-look-2",
+      "script": "katakana",
+      "label": "Look-alike set 2",
+      "tags": [
+        "look-alike"
+      ],
+      "symbols": [
+        {
+          "kana": "ウ",
+          "romaji": [
+            "u"
+          ],
+          "hangul": [
+            "우"
+          ],
+          "arabic": [
+            "أو"
+          ]
+        },
+        {
+          "kana": "フ",
+          "romaji": [
+            "fu",
+            "hu"
+          ],
+          "hangul": [
+            "후",
+            "푸"
+          ],
+          "arabic": [
+            "فو"
+          ]
+        },
+        {
+          "kana": "ワ",
+          "romaji": [
+            "wa"
+          ],
+          "hangul": [
+            "와"
+          ],
+          "arabic": [
+            "وا"
+          ]
+        },
+        {
+          "kana": "ラ",
+          "romaji": [
+            "ra"
+          ],
+          "hangul": [
+            "라"
+          ],
+          "arabic": [
+            "را"
+          ]
+        },
+        {
+          "kana": "ス",
+          "romaji": [
+            "su"
+          ],
+          "hangul": [
+            "스"
+          ],
+          "arabic": [
+            "سو"
+          ]
+        },
+        {
+          "kana": "ヌ",
+          "romaji": [
+            "nu"
+          ],
+          "hangul": [
+            "누"
+          ],
+          "arabic": [
+            "نو"
+          ]
+        },
+        {
+          "kana": "ヲ",
+          "romaji": [
+            "wo",
+            "o"
+          ],
+          "hangul": [
+            "오",
+            "워"
+          ],
+          "arabic": [
+            "و"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ga",
+      "script": "katakana",
+      "label": "Ga-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ガ",
+          "romaji": [
+            "ga"
+          ],
+          "hangul": [
+            "가"
+          ],
+          "arabic": [
+            "غا"
+          ]
+        },
+        {
+          "kana": "ギ",
+          "romaji": [
+            "gi"
+          ],
+          "hangul": [
+            "기"
+          ],
+          "arabic": [
+            "غي"
+          ]
+        },
+        {
+          "kana": "グ",
+          "romaji": [
+            "gu"
+          ],
+          "hangul": [
+            "구"
+          ],
+          "arabic": [
+            "غو"
+          ]
+        },
+        {
+          "kana": "ゲ",
+          "romaji": [
+            "ge"
+          ],
+          "hangul": [
+            "게"
+          ],
+          "arabic": [
+            "غيه"
+          ]
+        },
+        {
+          "kana": "ゴ",
+          "romaji": [
+            "go"
+          ],
+          "hangul": [
+            "고"
+          ],
+          "arabic": [
+            "غوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-za",
+      "script": "katakana",
+      "label": "Za-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ザ",
+          "romaji": [
+            "za"
+          ],
+          "hangul": [
+            "자"
+          ],
+          "arabic": [
+            "زا"
+          ]
+        },
+        {
+          "kana": "ジ",
+          "romaji": [
+            "ji",
+            "zi"
+          ],
+          "hangul": [
+            "지"
+          ],
+          "arabic": [
+            "جي"
+          ]
+        },
+        {
+          "kana": "ズ",
+          "romaji": [
+            "zu"
+          ],
+          "hangul": [
+            "즈"
+          ],
+          "arabic": [
+            "زو"
+          ]
+        },
+        {
+          "kana": "ゼ",
+          "romaji": [
+            "ze"
+          ],
+          "hangul": [
+            "제"
+          ],
+          "arabic": [
+            "زيه"
+          ]
+        },
+        {
+          "kana": "ゾ",
+          "romaji": [
+            "zo"
+          ],
+          "hangul": [
+            "조"
+          ],
+          "arabic": [
+            "زوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-da",
+      "script": "katakana",
+      "label": "Da-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ダ",
+          "romaji": [
+            "da"
+          ],
+          "hangul": [
+            "다"
+          ],
+          "arabic": [
+            "دا"
+          ]
+        },
+        {
+          "kana": "ヂ",
+          "romaji": [
+            "ji",
+            "di",
+            "dzi"
+          ],
+          "hangul": [
+            "지"
+          ],
+          "arabic": [
+            "جي"
+          ]
+        },
+        {
+          "kana": "ヅ",
+          "romaji": [
+            "zu",
+            "du",
+            "dzu"
+          ],
+          "hangul": [
+            "즈"
+          ],
+          "arabic": [
+            "زو"
+          ]
+        },
+        {
+          "kana": "デ",
+          "romaji": [
+            "de"
+          ],
+          "hangul": [
+            "데"
+          ],
+          "arabic": [
+            "ديه"
+          ]
+        },
+        {
+          "kana": "ド",
+          "romaji": [
+            "do"
+          ],
+          "hangul": [
+            "도"
+          ],
+          "arabic": [
+            "دوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ba",
+      "script": "katakana",
+      "label": "Ba-row",
+      "tags": [
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "バ",
+          "romaji": [
+            "ba"
+          ],
+          "hangul": [
+            "바"
+          ],
+          "arabic": [
+            "با"
+          ]
+        },
+        {
+          "kana": "ビ",
+          "romaji": [
+            "bi"
+          ],
+          "hangul": [
+            "비"
+          ],
+          "arabic": [
+            "بي"
+          ]
+        },
+        {
+          "kana": "ブ",
+          "romaji": [
+            "bu"
+          ],
+          "hangul": [
+            "부"
+          ],
+          "arabic": [
+            "بو"
+          ]
+        },
+        {
+          "kana": "ベ",
+          "romaji": [
+            "be"
+          ],
+          "hangul": [
+            "베"
+          ],
+          "arabic": [
+            "بيه"
+          ]
+        },
+        {
+          "kana": "ボ",
+          "romaji": [
+            "bo"
+          ],
+          "hangul": [
+            "보"
+          ],
+          "arabic": [
+            "بوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-pa",
+      "script": "katakana",
+      "label": "Pa-row",
+      "tags": [
+        "handakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "パ",
+          "romaji": [
+            "pa"
+          ],
+          "hangul": [
+            "파",
+            "빠"
+          ],
+          "arabic": [
+            "پا"
+          ]
+        },
+        {
+          "kana": "ピ",
+          "romaji": [
+            "pi"
+          ],
+          "hangul": [
+            "피",
+            "삐"
+          ],
+          "arabic": [
+            "پي"
+          ]
+        },
+        {
+          "kana": "プ",
+          "romaji": [
+            "pu"
+          ],
+          "hangul": [
+            "푸",
+            "뿌"
+          ],
+          "arabic": [
+            "پو"
+          ]
+        },
+        {
+          "kana": "ペ",
+          "romaji": [
+            "pe"
+          ],
+          "hangul": [
+            "페",
+            "뻬"
+          ],
+          "arabic": [
+            "پيه"
+          ]
+        },
+        {
+          "kana": "ポ",
+          "romaji": [
+            "po"
+          ],
+          "hangul": [
+            "포",
+            "뽀"
+          ],
+          "arabic": [
+            "پوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-kya",
+      "script": "katakana",
+      "label": "Kya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "キャ",
+          "romaji": [
+            "kya"
+          ],
+          "hangul": [
+            "캬",
+            "갸"
+          ],
+          "arabic": [
+            "كيا"
+          ]
+        },
+        {
+          "kana": "キュ",
+          "romaji": [
+            "kyu"
+          ],
+          "hangul": [
+            "큐",
+            "규"
+          ],
+          "arabic": [
+            "كيو"
+          ]
+        },
+        {
+          "kana": "キョ",
+          "romaji": [
+            "kyo"
+          ],
+          "hangul": [
+            "쿄",
+            "교"
+          ],
+          "arabic": [
+            "كيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-sha",
+      "script": "katakana",
+      "label": "Sha-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "シャ",
+          "romaji": [
+            "sha",
+            "sya"
+          ],
+          "hangul": [
+            "샤"
+          ],
+          "arabic": [
+            "شا"
+          ]
+        },
+        {
+          "kana": "シュ",
+          "romaji": [
+            "shu",
+            "syu"
+          ],
+          "hangul": [
+            "슈"
+          ],
+          "arabic": [
+            "شو"
+          ]
+        },
+        {
+          "kana": "ショ",
+          "romaji": [
+            "sho",
+            "syo"
+          ],
+          "hangul": [
+            "쇼"
+          ],
+          "arabic": [
+            "شوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-cha",
+      "script": "katakana",
+      "label": "Cha-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "チャ",
+          "romaji": [
+            "cha",
+            "cya",
+            "tya"
+          ],
+          "hangul": [
+            "차",
+            "자"
+          ],
+          "arabic": [
+            "تشا"
+          ]
+        },
+        {
+          "kana": "チュ",
+          "romaji": [
+            "chu",
+            "cyu",
+            "tyu"
+          ],
+          "hangul": [
+            "추",
+            "주"
+          ],
+          "arabic": [
+            "تشو"
+          ]
+        },
+        {
+          "kana": "チョ",
+          "romaji": [
+            "cho",
+            "cyo",
+            "tyo"
+          ],
+          "hangul": [
+            "초",
+            "조"
+          ],
+          "arabic": [
+            "تشوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-nya",
+      "script": "katakana",
+      "label": "Nya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "ニャ",
+          "romaji": [
+            "nya"
+          ],
+          "hangul": [
+            "냐"
+          ],
+          "arabic": [
+            "نيا"
+          ]
+        },
+        {
+          "kana": "ニュ",
+          "romaji": [
+            "nyu"
+          ],
+          "hangul": [
+            "뉴"
+          ],
+          "arabic": [
+            "نيو"
+          ]
+        },
+        {
+          "kana": "ニョ",
+          "romaji": [
+            "nyo"
+          ],
+          "hangul": [
+            "뇨"
+          ],
+          "arabic": [
+            "نيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-hya",
+      "script": "katakana",
+      "label": "Hya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "ヒャ",
+          "romaji": [
+            "hya"
+          ],
+          "hangul": [
+            "햐"
+          ],
+          "arabic": [
+            "هيا"
+          ]
+        },
+        {
+          "kana": "ヒュ",
+          "romaji": [
+            "hyu"
+          ],
+          "hangul": [
+            "휴"
+          ],
+          "arabic": [
+            "هيو"
+          ]
+        },
+        {
+          "kana": "ヒョ",
+          "romaji": [
+            "hyo"
+          ],
+          "hangul": [
+            "효"
+          ],
+          "arabic": [
+            "هيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-mya",
+      "script": "katakana",
+      "label": "Mya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "ミャ",
+          "romaji": [
+            "mya"
+          ],
+          "hangul": [
+            "먀"
+          ],
+          "arabic": [
+            "ميا"
+          ]
+        },
+        {
+          "kana": "ミュ",
+          "romaji": [
+            "myu"
+          ],
+          "hangul": [
+            "뮤"
+          ],
+          "arabic": [
+            "ميو"
+          ]
+        },
+        {
+          "kana": "ミョ",
+          "romaji": [
+            "myo"
+          ],
+          "hangul": [
+            "묘"
+          ],
+          "arabic": [
+            "ميوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-rya",
+      "script": "katakana",
+      "label": "Rya-row",
+      "tags": [
+        "yoon"
+      ],
+      "symbols": [
+        {
+          "kana": "リャ",
+          "romaji": [
+            "rya"
+          ],
+          "hangul": [
+            "랴"
+          ],
+          "arabic": [
+            "ريا"
+          ]
+        },
+        {
+          "kana": "リュ",
+          "romaji": [
+            "ryu"
+          ],
+          "hangul": [
+            "류"
+          ],
+          "arabic": [
+            "ريو"
+          ]
+        },
+        {
+          "kana": "リョ",
+          "romaji": [
+            "ryo"
+          ],
+          "hangul": [
+            "료"
+          ],
+          "arabic": [
+            "ريوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-gya",
+      "script": "katakana",
+      "label": "Gya-row",
+      "tags": [
+        "yoon",
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ギャ",
+          "romaji": [
+            "gya"
+          ],
+          "hangul": [
+            "갸"
+          ],
+          "arabic": [
+            "غيا"
+          ]
+        },
+        {
+          "kana": "ギュ",
+          "romaji": [
+            "gyu"
+          ],
+          "hangul": [
+            "규"
+          ],
+          "arabic": [
+            "غيو"
+          ]
+        },
+        {
+          "kana": "ギョ",
+          "romaji": [
+            "gyo"
+          ],
+          "hangul": [
+            "교"
+          ],
+          "arabic": [
+            "غيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ja",
+      "script": "katakana",
+      "label": "Ja-row",
+      "tags": [
+        "yoon",
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ジャ",
+          "romaji": [
+            "ja",
+            "jya",
+            "zya"
+          ],
+          "hangul": [
+            "자",
+            "쟈"
+          ],
+          "arabic": [
+            "جا"
+          ]
+        },
+        {
+          "kana": "ジュ",
+          "romaji": [
+            "ju",
+            "jyu",
+            "zyu"
+          ],
+          "hangul": [
+            "주",
+            "쥬"
+          ],
+          "arabic": [
+            "جو"
+          ]
+        },
+        {
+          "kana": "ジョ",
+          "romaji": [
+            "jo",
+            "jyo",
+            "zyo"
+          ],
+          "hangul": [
+            "조",
+            "죠"
+          ],
+          "arabic": [
+            "جوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-bya",
+      "script": "katakana",
+      "label": "Bya-row",
+      "tags": [
+        "yoon",
+        "dakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ビャ",
+          "romaji": [
+            "bya"
+          ],
+          "hangul": [
+            "뱌"
+          ],
+          "arabic": [
+            "بيا"
+          ]
+        },
+        {
+          "kana": "ビュ",
+          "romaji": [
+            "byu"
+          ],
+          "hangul": [
+            "뷰"
+          ],
+          "arabic": [
+            "بيو"
+          ]
+        },
+        {
+          "kana": "ビョ",
+          "romaji": [
+            "byo"
+          ],
+          "hangul": [
+            "뵤"
+          ],
+          "arabic": [
+            "بيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-pya",
+      "script": "katakana",
+      "label": "Pya-row",
+      "tags": [
+        "yoon",
+        "handakuten"
+      ],
+      "symbols": [
+        {
+          "kana": "ピャ",
+          "romaji": [
+            "pya"
+          ],
+          "hangul": [
+            "퍄"
+          ],
+          "arabic": [
+            "پيا"
+          ]
+        },
+        {
+          "kana": "ピュ",
+          "romaji": [
+            "pyu"
+          ],
+          "hangul": [
+            "퓨"
+          ],
+          "arabic": [
+            "پيو"
+          ]
+        },
+        {
+          "kana": "ピョ",
+          "romaji": [
+            "pyo"
+          ],
+          "hangul": [
+            "표"
+          ],
+          "arabic": [
+            "پيوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-fa",
+      "script": "katakana",
+      "label": "Fa-row",
+      "tags": [
+        "loan"
+      ],
+      "symbols": [
+        {
+          "kana": "ファ",
+          "romaji": [
+            "fa"
+          ],
+          "hangul": [
+            "파"
+          ],
+          "arabic": [
+            "فا"
+          ]
+        },
+        {
+          "kana": "フィ",
+          "romaji": [
+            "fi"
+          ],
+          "hangul": [
+            "피"
+          ],
+          "arabic": [
+            "في"
+          ]
+        },
+        {
+          "kana": "フェ",
+          "romaji": [
+            "fe"
+          ],
+          "hangul": [
+            "페"
+          ],
+          "arabic": [
+            "فيه"
+          ]
+        },
+        {
+          "kana": "フォ",
+          "romaji": [
+            "fo"
+          ],
+          "hangul": [
+            "포"
+          ],
+          "arabic": [
+            "فوه"
+          ]
+        },
+        {
+          "kana": "フュ",
+          "romaji": [
+            "fyu"
+          ],
+          "hangul": [
+            "퓨"
+          ],
+          "arabic": [
+            "فيو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-va",
+      "script": "katakana",
+      "label": "Va-row",
+      "tags": [
+        "loan"
+      ],
+      "symbols": [
+        {
+          "kana": "ウィ",
+          "romaji": [
+            "wi"
+          ],
+          "hangul": [
+            "위"
+          ],
+          "arabic": [
+            "وي"
+          ]
+        },
+        {
+          "kana": "ウェ",
+          "romaji": [
+            "we"
+          ],
+          "hangul": [
+            "웨"
+          ],
+          "arabic": [
+            "ويه"
+          ]
+        },
+        {
+          "kana": "ウォ",
+          "romaji": [
+            "wo"
+          ],
+          "hangul": [
+            "워",
+            "오"
+          ],
+          "arabic": [
+            "و"
+          ]
+        },
+        {
+          "kana": "ヴァ",
+          "romaji": [
+            "va"
+          ],
+          "hangul": [
+            "바"
+          ],
+          "arabic": [
+            "ڤا"
+          ]
+        },
+        {
+          "kana": "ヴィ",
+          "romaji": [
+            "vi"
+          ],
+          "hangul": [
+            "비"
+          ],
+          "arabic": [
+            "ڤي"
+          ]
+        },
+        {
+          "kana": "ヴェ",
+          "romaji": [
+            "ve"
+          ],
+          "hangul": [
+            "베"
+          ],
+          "arabic": [
+            "ڤيه"
+          ]
+        },
+        {
+          "kana": "ヴォ",
+          "romaji": [
+            "vo"
+          ],
+          "hangul": [
+            "보"
+          ],
+          "arabic": [
+            "ڤوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-tsa",
+      "script": "katakana",
+      "label": "Tsa-row",
+      "tags": [
+        "loan"
+      ],
+      "symbols": [
+        {
+          "kana": "ツァ",
+          "romaji": [
+            "tsa"
+          ],
+          "hangul": [
+            "차",
+            "짜"
+          ],
+          "arabic": [
+            "تسا"
+          ]
+        },
+        {
+          "kana": "ツィ",
+          "romaji": [
+            "tsi"
+          ],
+          "hangul": [
+            "치"
+          ],
+          "arabic": [
+            "تسي"
+          ]
+        },
+        {
+          "kana": "ツェ",
+          "romaji": [
+            "tse"
+          ],
+          "hangul": [
+            "체"
+          ],
+          "arabic": [
+            "تسيه"
+          ]
+        },
+        {
+          "kana": "ツォ",
+          "romaji": [
+            "tso"
+          ],
+          "hangul": [
+            "초"
+          ],
+          "arabic": [
+            "تسوه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-che",
+      "script": "katakana",
+      "label": "Che-row",
+      "tags": [
+        "loan"
+      ],
+      "symbols": [
+        {
+          "kana": "チェ",
+          "romaji": [
+            "che"
+          ],
+          "hangul": [
+            "체"
+          ],
+          "arabic": [
+            "تشيه"
+          ]
+        },
+        {
+          "kana": "シェ",
+          "romaji": [
+            "she"
+          ],
+          "hangul": [
+            "셰"
+          ],
+          "arabic": [
+            "شيه"
+          ]
+        },
+        {
+          "kana": "ジェ",
+          "romaji": [
+            "je"
+          ],
+          "hangul": [
+            "제",
+            "줴"
+          ],
+          "arabic": [
+            "جيه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ti",
+      "script": "katakana",
+      "label": "Ti-row",
+      "tags": [
+        "loan"
+      ],
+      "symbols": [
+        {
+          "kana": "ティ",
+          "romaji": [
+            "ti"
+          ],
+          "hangul": [
+            "티",
+            "디"
+          ],
+          "arabic": [
+            "تي"
+          ]
+        },
+        {
+          "kana": "ディ",
+          "romaji": [
+            "di"
+          ],
+          "hangul": [
+            "디"
+          ],
+          "arabic": [
+            "دي"
+          ]
+        },
+        {
+          "kana": "デュ",
+          "romaji": [
+            "du"
+          ],
+          "hangul": [
+            "듀"
+          ],
+          "arabic": [
+            "دو"
+          ]
+        },
+        {
+          "kana": "トゥ",
+          "romaji": [
+            "tu"
+          ],
+          "hangul": [
+            "투",
+            "두"
+          ],
+          "arabic": [
+            "تو"
+          ]
+        }
+      ]
+    }
+  ]
+}

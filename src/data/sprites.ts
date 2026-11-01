@@ -1,0 +1,1041 @@
+// Auto-generated audio sprite timing table
+import { AudioSpriteInfo } from "../types/kana";
+
+export const AUDIO_SPRITES: AudioSpriteInfo[] = [
+  {
+    "kana": "ア",
+    "romaji": [
+      "a"
+    ],
+    "startMs": 250,
+    "durationMs": 396
+  },
+  {
+    "kana": "イ",
+    "romaji": [
+      "i"
+    ],
+    "startMs": 646,
+    "durationMs": 415
+  },
+  {
+    "kana": "ウ",
+    "romaji": [
+      "u"
+    ],
+    "startMs": 1061,
+    "durationMs": 391
+  },
+  {
+    "kana": "エ",
+    "romaji": [
+      "e"
+    ],
+    "startMs": 1453,
+    "durationMs": 372
+  },
+  {
+    "kana": "オ",
+    "romaji": [
+      "o"
+    ],
+    "startMs": 1824,
+    "durationMs": 375
+  },
+  {
+    "kana": "カ",
+    "romaji": [
+      "ka"
+    ],
+    "startMs": 2199,
+    "durationMs": 449
+  },
+  {
+    "kana": "キ",
+    "romaji": [
+      "ki"
+    ],
+    "startMs": 2648,
+    "durationMs": 455
+  },
+  {
+    "kana": "ク",
+    "romaji": [
+      "ku"
+    ],
+    "startMs": 3103,
+    "durationMs": 454
+  },
+  {
+    "kana": "ケ",
+    "romaji": [
+      "ke"
+    ],
+    "startMs": 3557,
+    "durationMs": 461
+  },
+  {
+    "kana": "コ",
+    "romaji": [
+      "ko"
+    ],
+    "startMs": 4018,
+    "durationMs": 465
+  },
+  {
+    "kana": "サ",
+    "romaji": [
+      "sa"
+    ],
+    "startMs": 4483,
+    "durationMs": 481
+  },
+  {
+    "kana": "シ",
+    "romaji": [
+      "shi",
+      "si"
+    ],
+    "startMs": 4964,
+    "durationMs": 521
+  },
+  {
+    "kana": "ス",
+    "romaji": [
+      "su"
+    ],
+    "startMs": 5486,
+    "durationMs": 511
+  },
+  {
+    "kana": "セ",
+    "romaji": [
+      "se"
+    ],
+    "startMs": 5997,
+    "durationMs": 465
+  },
+  {
+    "kana": "ソ",
+    "romaji": [
+      "so"
+    ],
+    "startMs": 6462,
+    "durationMs": 476
+  },
+  {
+    "kana": "タ",
+    "romaji": [
+      "ta"
+    ],
+    "startMs": 6938,
+    "durationMs": 436
+  },
+  {
+    "kana": "チ",
+    "romaji": [
+      "chi",
+      "ti"
+    ],
+    "startMs": 7374,
+    "durationMs": 516
+  },
+  {
+    "kana": "ツ",
+    "romaji": [
+      "tsu",
+      "tu"
+    ],
+    "startMs": 7890,
+    "durationMs": 490
+  },
+  {
+    "kana": "テ",
+    "romaji": [
+      "te"
+    ],
+    "startMs": 8380,
+    "durationMs": 437
+  },
+  {
+    "kana": "ト",
+    "romaji": [
+      "to"
+    ],
+    "startMs": 8818,
+    "durationMs": 436
+  },
+  {
+    "kana": "ナ",
+    "romaji": [
+      "na"
+    ],
+    "startMs": 9254,
+    "durationMs": 466
+  },
+  {
+    "kana": "ニ",
+    "romaji": [
+      "ni"
+    ],
+    "startMs": 9720,
+    "durationMs": 472
+  },
+  {
+    "kana": "ヌ",
+    "romaji": [
+      "nu"
+    ],
+    "startMs": 10192,
+    "durationMs": 476
+  },
+  {
+    "kana": "ネ",
+    "romaji": [
+      "ne"
+    ],
+    "startMs": 10668,
+    "durationMs": 440
+  },
+  {
+    "kana": "ノ",
+    "romaji": [
+      "no"
+    ],
+    "startMs": 11108,
+    "durationMs": 456
+  },
+  {
+    "kana": "ハ",
+    "romaji": [
+      "ha"
+    ],
+    "startMs": 11564,
+    "durationMs": 486
+  },
+  {
+    "kana": "ヒ",
+    "romaji": [
+      "hi"
+    ],
+    "startMs": 12050,
+    "durationMs": 487
+  },
+  {
+    "kana": "フ",
+    "romaji": [
+      "fu",
+      "hu"
+    ],
+    "startMs": 12536,
+    "durationMs": 480
+  },
+  {
+    "kana": "ヘ",
+    "romaji": [
+      "he"
+    ],
+    "startMs": 13016,
+    "durationMs": 457
+  },
+  {
+    "kana": "ホ",
+    "romaji": [
+      "ho"
+    ],
+    "startMs": 13474,
+    "durationMs": 450
+  },
+  {
+    "kana": "マ",
+    "romaji": [
+      "ma"
+    ],
+    "startMs": 13924,
+    "durationMs": 440
+  },
+  {
+    "kana": "ミ",
+    "romaji": [
+      "mi"
+    ],
+    "startMs": 14364,
+    "durationMs": 426
+  },
+  {
+    "kana": "ム",
+    "romaji": [
+      "mu"
+    ],
+    "startMs": 14791,
+    "durationMs": 451
+  },
+  {
+    "kana": "メ",
+    "romaji": [
+      "me"
+    ],
+    "startMs": 15242,
+    "durationMs": 436
+  },
+  {
+    "kana": "モ",
+    "romaji": [
+      "mo"
+    ],
+    "startMs": 15678,
+    "durationMs": 435
+  },
+  {
+    "kana": "ヤ",
+    "romaji": [
+      "ya"
+    ],
+    "startMs": 16113,
+    "durationMs": 446
+  },
+  {
+    "kana": "ユ",
+    "romaji": [
+      "yu"
+    ],
+    "startMs": 16560,
+    "durationMs": 464
+  },
+  {
+    "kana": "ヨ",
+    "romaji": [
+      "yo"
+    ],
+    "startMs": 17024,
+    "durationMs": 465
+  },
+  {
+    "kana": "ラ",
+    "romaji": [
+      "ra"
+    ],
+    "startMs": 17489,
+    "durationMs": 446
+  },
+  {
+    "kana": "リ",
+    "romaji": [
+      "ri"
+    ],
+    "startMs": 17935,
+    "durationMs": 431
+  },
+  {
+    "kana": "ル",
+    "romaji": [
+      "ru"
+    ],
+    "startMs": 18366,
+    "durationMs": 468
+  },
+  {
+    "kana": "レ",
+    "romaji": [
+      "re"
+    ],
+    "startMs": 18835,
+    "durationMs": 448
+  },
+  {
+    "kana": "ロ",
+    "romaji": [
+      "ro"
+    ],
+    "startMs": 19283,
+    "durationMs": 456
+  },
+  {
+    "kana": "ワ",
+    "romaji": [
+      "wa"
+    ],
+    "startMs": 19739,
+    "durationMs": 451
+  },
+  {
+    "kana": "ヲ",
+    "romaji": [
+      "wo",
+      "o"
+    ],
+    "startMs": 20190,
+    "durationMs": 429
+  },
+  {
+    "kana": "ン",
+    "romaji": [
+      "n"
+    ],
+    "startMs": 20619,
+    "durationMs": 384
+  },
+  {
+    "kana": "ガ",
+    "romaji": [
+      "ga"
+    ],
+    "startMs": 21002,
+    "durationMs": 461
+  },
+  {
+    "kana": "ギ",
+    "romaji": [
+      "gi"
+    ],
+    "startMs": 21464,
+    "durationMs": 457
+  },
+  {
+    "kana": "グ",
+    "romaji": [
+      "gu"
+    ],
+    "startMs": 21921,
+    "durationMs": 476
+  },
+  {
+    "kana": "ゲ",
+    "romaji": [
+      "ge"
+    ],
+    "startMs": 22397,
+    "durationMs": 451
+  },
+  {
+    "kana": "ゴ",
+    "romaji": [
+      "go"
+    ],
+    "startMs": 22848,
+    "durationMs": 461
+  },
+  {
+    "kana": "ザ",
+    "romaji": [
+      "za"
+    ],
+    "startMs": 23309,
+    "durationMs": 476
+  },
+  {
+    "kana": "ジ",
+    "romaji": [
+      "ji",
+      "zi"
+    ],
+    "startMs": 23785,
+    "durationMs": 490
+  },
+  {
+    "kana": "ズ",
+    "romaji": [
+      "zu",
+      "du"
+    ],
+    "startMs": 24275,
+    "durationMs": 470
+  },
+  {
+    "kana": "ゼ",
+    "romaji": [
+      "ze"
+    ],
+    "startMs": 24745,
+    "durationMs": 480
+  },
+  {
+    "kana": "ゾ",
+    "romaji": [
+      "zo"
+    ],
+    "startMs": 25225,
+    "durationMs": 472
+  },
+  {
+    "kana": "ダ",
+    "romaji": [
+      "da"
+    ],
+    "startMs": 25697,
+    "durationMs": 451
+  },
+  {
+    "kana": "ヂ",
+    "romaji": [
+      "ji",
+      "di",
+      "dzi"
+    ],
+    "startMs": 26148,
+    "durationMs": 480
+  },
+  {
+    "kana": "ヅ",
+    "romaji": [
+      "zu",
+      "dzu"
+    ],
+    "startMs": 26628,
+    "durationMs": 486
+  },
+  {
+    "kana": "デ",
+    "romaji": [
+      "de"
+    ],
+    "startMs": 27114,
+    "durationMs": 440
+  },
+  {
+    "kana": "ド",
+    "romaji": [
+      "do"
+    ],
+    "startMs": 27554,
+    "durationMs": 436
+  },
+  {
+    "kana": "バ",
+    "romaji": [
+      "ba"
+    ],
+    "startMs": 27990,
+    "durationMs": 436
+  },
+  {
+    "kana": "ビ",
+    "romaji": [
+      "bi"
+    ],
+    "startMs": 28427,
+    "durationMs": 436
+  },
+  {
+    "kana": "ブ",
+    "romaji": [
+      "bu"
+    ],
+    "startMs": 28863,
+    "durationMs": 430
+  },
+  {
+    "kana": "ベ",
+    "romaji": [
+      "be"
+    ],
+    "startMs": 29293,
+    "durationMs": 453
+  },
+  {
+    "kana": "ボ",
+    "romaji": [
+      "bo"
+    ],
+    "startMs": 29746,
+    "durationMs": 445
+  },
+  {
+    "kana": "パ",
+    "romaji": [
+      "pa"
+    ],
+    "startMs": 30191,
+    "durationMs": 441
+  },
+  {
+    "kana": "ピ",
+    "romaji": [
+      "pi"
+    ],
+    "startMs": 30633,
+    "durationMs": 434
+  },
+  {
+    "kana": "プ",
+    "romaji": [
+      "pu"
+    ],
+    "startMs": 31067,
+    "durationMs": 429
+  },
+  {
+    "kana": "ペ",
+    "romaji": [
+      "pe"
+    ],
+    "startMs": 31496,
+    "durationMs": 441
+  },
+  {
+    "kana": "ポ",
+    "romaji": [
+      "po"
+    ],
+    "startMs": 31937,
+    "durationMs": 416
+  },
+  {
+    "kana": "キャ",
+    "romaji": [
+      "kya"
+    ],
+    "startMs": 32354,
+    "durationMs": 466
+  },
+  {
+    "kana": "キュ",
+    "romaji": [
+      "kyu"
+    ],
+    "startMs": 32820,
+    "durationMs": 500
+  },
+  {
+    "kana": "キョ",
+    "romaji": [
+      "kyo"
+    ],
+    "startMs": 33320,
+    "durationMs": 485
+  },
+  {
+    "kana": "シャ",
+    "romaji": [
+      "sha",
+      "sya"
+    ],
+    "startMs": 33805,
+    "durationMs": 516
+  },
+  {
+    "kana": "シュ",
+    "romaji": [
+      "shu",
+      "syu"
+    ],
+    "startMs": 34321,
+    "durationMs": 526
+  },
+  {
+    "kana": "ショ",
+    "romaji": [
+      "sho",
+      "syo"
+    ],
+    "startMs": 34847,
+    "durationMs": 491
+  },
+  {
+    "kana": "チャ",
+    "romaji": [
+      "cha",
+      "cya",
+      "tya"
+    ],
+    "startMs": 35338,
+    "durationMs": 466
+  },
+  {
+    "kana": "チュ",
+    "romaji": [
+      "chu",
+      "cyu"
+    ],
+    "startMs": 35805,
+    "durationMs": 490
+  },
+  {
+    "kana": "チョ",
+    "romaji": [
+      "cho",
+      "cyo"
+    ],
+    "startMs": 36295,
+    "durationMs": 486
+  },
+  {
+    "kana": "ニャ",
+    "romaji": [
+      "nya"
+    ],
+    "startMs": 36781,
+    "durationMs": 480
+  },
+  {
+    "kana": "ニュ",
+    "romaji": [
+      "nyu"
+    ],
+    "startMs": 37261,
+    "durationMs": 486
+  },
+  {
+    "kana": "ニョ",
+    "romaji": [
+      "nyo"
+    ],
+    "startMs": 37747,
+    "durationMs": 490
+  },
+  {
+    "kana": "ヒャ",
+    "romaji": [
+      "hya"
+    ],
+    "startMs": 38237,
+    "durationMs": 481
+  },
+  {
+    "kana": "ヒュ",
+    "romaji": [
+      "hyu"
+    ],
+    "startMs": 38718,
+    "durationMs": 486
+  },
+  {
+    "kana": "ヒョ",
+    "romaji": [
+      "hyo"
+    ],
+    "startMs": 39204,
+    "durationMs": 471
+  },
+  {
+    "kana": "ミャ",
+    "romaji": [
+      "mya"
+    ],
+    "startMs": 39675,
+    "durationMs": 467
+  },
+  {
+    "kana": "ミュ",
+    "romaji": [
+      "myu"
+    ],
+    "startMs": 40143,
+    "durationMs": 500
+  },
+  {
+    "kana": "ミョ",
+    "romaji": [
+      "myo"
+    ],
+    "startMs": 40643,
+    "durationMs": 480
+  },
+  {
+    "kana": "リャ",
+    "romaji": [
+      "rya"
+    ],
+    "startMs": 41123,
+    "durationMs": 446
+  },
+  {
+    "kana": "リュ",
+    "romaji": [
+      "ryu"
+    ],
+    "startMs": 41569,
+    "durationMs": 476
+  },
+  {
+    "kana": "リョ",
+    "romaji": [
+      "ryo"
+    ],
+    "startMs": 42046,
+    "durationMs": 480
+  },
+  {
+    "kana": "ギャ",
+    "romaji": [
+      "gya"
+    ],
+    "startMs": 42526,
+    "durationMs": 475
+  },
+  {
+    "kana": "ギュ",
+    "romaji": [
+      "gyu"
+    ],
+    "startMs": 43000,
+    "durationMs": 493
+  },
+  {
+    "kana": "ギョ",
+    "romaji": [
+      "gyo"
+    ],
+    "startMs": 43493,
+    "durationMs": 486
+  },
+  {
+    "kana": "ジャ",
+    "romaji": [
+      "ja",
+      "jya"
+    ],
+    "startMs": 43979,
+    "durationMs": 486
+  },
+  {
+    "kana": "ジュ",
+    "romaji": [
+      "ju",
+      "jyu"
+    ],
+    "startMs": 44465,
+    "durationMs": 469
+  },
+  {
+    "kana": "ジョ",
+    "romaji": [
+      "jo",
+      "jyo"
+    ],
+    "startMs": 44934,
+    "durationMs": 446
+  },
+  {
+    "kana": "ビャ",
+    "romaji": [
+      "bya"
+    ],
+    "startMs": 45380,
+    "durationMs": 446
+  },
+  {
+    "kana": "ビュ",
+    "romaji": [
+      "byu"
+    ],
+    "startMs": 45826,
+    "durationMs": 481
+  },
+  {
+    "kana": "ビョ",
+    "romaji": [
+      "byo"
+    ],
+    "startMs": 46307,
+    "durationMs": 484
+  },
+  {
+    "kana": "ピャ",
+    "romaji": [
+      "pya"
+    ],
+    "startMs": 46791,
+    "durationMs": 448
+  },
+  {
+    "kana": "ピュ",
+    "romaji": [
+      "pyu"
+    ],
+    "startMs": 47239,
+    "durationMs": 479
+  },
+  {
+    "kana": "ピョ",
+    "romaji": [
+      "pyo"
+    ],
+    "startMs": 47718,
+    "durationMs": 455
+  },
+  {
+    "kana": "ファ",
+    "romaji": [
+      "fa"
+    ],
+    "startMs": 48173,
+    "durationMs": 451
+  },
+  {
+    "kana": "フィ",
+    "romaji": [
+      "fi"
+    ],
+    "startMs": 48624,
+    "durationMs": 475
+  },
+  {
+    "kana": "フェ",
+    "romaji": [
+      "fe"
+    ],
+    "startMs": 49099,
+    "durationMs": 461
+  },
+  {
+    "kana": "フォ",
+    "romaji": [
+      "fo"
+    ],
+    "startMs": 49575,
+    "durationMs": 491
+  },
+  {
+    "kana": "フュ",
+    "romaji": [
+      "fyu"
+    ],
+    "startMs": 50067,
+    "durationMs": 490
+  },
+  {
+    "kana": "ウィ",
+    "romaji": [
+      "wi"
+    ],
+    "startMs": 50557,
+    "durationMs": 439
+  },
+  {
+    "kana": "ウェ",
+    "romaji": [
+      "we"
+    ],
+    "startMs": 50996,
+    "durationMs": 410
+  },
+  {
+    "kana": "ウォ",
+    "romaji": [
+      "wo"
+    ],
+    "startMs": 51405,
+    "durationMs": 406
+  },
+  {
+    "kana": "ヴァ",
+    "romaji": [
+      "va"
+    ],
+    "startMs": 51812,
+    "durationMs": 425
+  },
+  {
+    "kana": "ヴィ",
+    "romaji": [
+      "vi"
+    ],
+    "startMs": 52236,
+    "durationMs": 441
+  },
+  {
+    "kana": "ヴェ",
+    "romaji": [
+      "ve"
+    ],
+    "startMs": 52677,
+    "durationMs": 461
+  },
+  {
+    "kana": "ヴォ",
+    "romaji": [
+      "vo"
+    ],
+    "startMs": 53139,
+    "durationMs": 452
+  },
+  {
+    "kana": "ツァ",
+    "romaji": [
+      "tsa"
+    ],
+    "startMs": 53591,
+    "durationMs": 481
+  },
+  {
+    "kana": "ツィ",
+    "romaji": [
+      "tsi"
+    ],
+    "startMs": 54072,
+    "durationMs": 501
+  },
+  {
+    "kana": "ツェ",
+    "romaji": [
+      "tse"
+    ],
+    "startMs": 54573,
+    "durationMs": 477
+  },
+  {
+    "kana": "ツォ",
+    "romaji": [
+      "tso"
+    ],
+    "startMs": 55050,
+    "durationMs": 471
+  },
+  {
+    "kana": "チェ",
+    "romaji": [
+      "che"
+    ],
+    "startMs": 55522,
+    "durationMs": 501
+  },
+  {
+    "kana": "シェ",
+    "romaji": [
+      "she"
+    ],
+    "startMs": 56023,
+    "durationMs": 525
+  },
+  {
+    "kana": "ジェ",
+    "romaji": [
+      "je"
+    ],
+    "startMs": 56548,
+    "durationMs": 471
+  },
+  {
+    "kana": "ティ",
+    "romaji": [
+      "ti"
+    ],
+    "startMs": 57020,
+    "durationMs": 447
+  },
+  {
+    "kana": "ディ",
+    "romaji": [
+      "di"
+    ],
+    "startMs": 57467,
+    "durationMs": 452
+  },
+  {
+    "kana": "デュ",
+    "romaji": [
+      "du"
+    ],
+    "startMs": 57919,
+    "durationMs": 481
+  },
+  {
+    "kana": "トゥ",
+    "romaji": [
+      "tu"
+    ],
+    "startMs": 58400,
+    "durationMs": 467
+  }
+];
